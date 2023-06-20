@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/picsio-test-task/static/css/main.f7a57d20.css",
+    "main.js": "/picsio-test-task/static/js/main.3d49fda7.js",
+    "index.html": "/picsio-test-task/index.html",
+    "main.f7a57d20.css.map": "/picsio-test-task/static/css/main.f7a57d20.css.map",
+    "main.3d49fda7.js.map": "/picsio-test-task/static/js/main.3d49fda7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7a57d20.css",
+    "static/js/main.3d49fda7.js"
+  ]
+}
